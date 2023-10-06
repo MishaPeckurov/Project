@@ -1,3 +1,3 @@
-c = "Misha"
-for i in c:
-    print(i)
+def с ():
+    print('Misha,Age 8,Comupter')
+с ()
