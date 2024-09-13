@@ -1,7 +1,3 @@
-my_list = [1, 2, 3]
+name = 'Misha'
 
-a, b, c = my_list
-
-print(a)
-print(b)
-print(c)
+print(name[0] + name[-1])

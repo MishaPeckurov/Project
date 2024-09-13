@@ -1,5 +1,2 @@
-def print_elements(*args):
-    for element in args:
-        print(element)
-
-print_elements(1, 2, 3, "a", "b", "c")
+for i in range (100,1000,200):
+    print(i)
